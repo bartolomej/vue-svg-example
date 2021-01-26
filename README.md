@@ -1,5 +1,7 @@
 # vue-svg-example
 
+This is a plain starter vue.js app with the preconfigured support for importing `.svg` files. The demo displays a Vue.js svg logo instead of png image.
+
 ## Project setup
 ```
 yarn install
