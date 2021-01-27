@@ -2,6 +2,10 @@
 
 This is a plain vue.js starter app with the preconfigured support for importing `.svg` files. The demo displays a Vue.js svg logo instead of png image.
 
+For more info, please refer to the [official documentation](https://github.com/visualfanatic/vue-svg-loader).
+
+If you want to learn about SVGs, check out [this awesome guide](https://css-tricks.com/scale-svg/).
+
 ## Project setup
  
 This example uses `vue-svg-loader` webpack plugin, which you can install to your app with 
@@ -30,5 +34,3 @@ module.exports = {
 ```
 
 Have a look in `src/App.vue` for an example usage.
-
-For more info, please refer to the [official documentation](https://github.com/visualfanatic/vue-svg-loader).

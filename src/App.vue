@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <VueLogo width="100" height="100" />
+    <VueLogo />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
 </template>
@@ -26,5 +26,14 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+
+svg {
+  width: 200px;
+  transition: all 0.3s ease;
+}
+
+svg:hover {
+  transform: scale(1.1);
 }
 </style>
